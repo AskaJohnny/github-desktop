@@ -40,6 +40,7 @@ subject：提交描述，50字以内
 
 
 
-Idea 插件
+### 2.Idea 插件(git 提交信息)
 
 下载插件Commit Message Template
+
